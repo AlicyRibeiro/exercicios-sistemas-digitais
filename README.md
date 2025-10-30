@@ -56,7 +56,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 * **Questão 3.30:** [Análise: Diagrama de Tempo da FSM de Código Gray]([link-para-solucao.md])
 * **Questão 3.39:** [Projeto de Bloco de Controle (FSM para Circuito)]([link-para-solucao.md])
 
-### 3. LUTs e CLBS [cite: 9]
+### 3. LUTs e CLBS
 
   *(Questões do Livro: 7.20 - 7.25)*
 
