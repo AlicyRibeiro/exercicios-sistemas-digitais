@@ -17,7 +17,7 @@ Todas as questões referem-se ao livro:
 
 Para validar e visualizar o comportamento dos circuitos, algumas das questões foram implementadas e testadas usando um simulador lógico digital.
 
-* **Software Utilizado:** [Nome do Simulador - por ex: Logisim, Deeds, etc.]
+* **Software Utilizado:** [Digital - https://github.com/hneemann/Digital]
 * Os arquivos de simulação estão linkados diretamente nas resoluções.
 
 ---
@@ -30,9 +30,9 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 ### 1. Revisão de circuitos digitais 
 
-*(Questões do Livro: 2.30-2.34; 2.53-2.55; 3.15-3.16; 4.1, 4.3, 3.21, 3.22)*
+*(Questões do livro: 2.30 – 2.34; 2.53-2.55; 3.15 – 3.16; 4.1 – 3.21 – 3.22; 4.3;)*
 
-* **Questão 2.30/2.33:** [Conversão de Equações Booleanas para Tabelas-Verdade]([link-para-solucao.md]) | [Simulação]
+* **Questão 2.30/2.33:** [Conversão de Equações Booleanas para Tabelas-Verdade]([link-para-solucao.md]) | 
 * **Questão 2.31:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.32:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.34:** [Conversão de Equações (com 4 variáveis) para Tabelas-Verdade]([link-para-solucao.md])
@@ -46,7 +46,8 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 ### 2. Bloco de controle e Datapath
 
-  *(Questões do Livro: 3.1-3.3; 3.27-3.30; 3.39; ...)*
+  *(Questões do Livro:3.1–3.3; 3.27 – 3.30; 3.39;3.44 – 3.45; 5.1 – 5.3; 5.6 – 5.11; 5.15; 5.18,5.19; 5.22 – 5.23; 
+6.32; 6.33; 6.39;)*
 
 * **Questão 3.1 & 3.2:** [Cálculo: Frequência para Período]([link-para-solucao.md])
 * **Questão 3.3:** [Cálculo: Período para Frequência]([link-para-solucao.md])
