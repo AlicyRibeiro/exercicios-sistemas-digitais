@@ -10,7 +10,7 @@ Este diretório contém as resoluções da primeira lista de exercícios da disc
 
 Todas as questões referem-se ao livro:
 
-* **Título:** "Sistemas Digitais, 2ed." 
+* **Título:** Sistemas Digitais, 2ed.
 * **Autor:** Frank Vahid
 
 ## Simulações
