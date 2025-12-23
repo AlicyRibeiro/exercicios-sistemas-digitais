@@ -66,3 +66,14 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 * **Questão 7.22:** [Implementação de Função Decomposta em Duas LUTs]([link-para-solucao.md])
 * **Questão 7.23:** [Implementação de Múltiplas Funções com Duas LUTs]([link-para-solucao.md])
 * **Questão 7.25:** [Projeto de Comparador de 2 Bits com LUTs]([link-para-solucao.md])
+
+
+## Aviso Legal
+
+Este repositório contém resoluções originais de exercícios baseados no livro
+*Sistemas Digitais* (Frank Vahid).
+
+Os enunciados completos das questões e quaisquer imagens do livro **não são reproduzidos**
+neste repositório, em conformidade com a Lei de Direitos Autorais.
+
+Este material tem finalidade exclusivamente acadêmica e educacional.
