@@ -28,16 +28,4 @@ Ou seja, a função representa uma operação **OU** entre dois termos **AND**.
 | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
 | 1 | 1 | 1 | 0 | 0 | 1 | 1 |
 
----
 
-## 🔌 Circuito da Expressão
-
-O circuito digital correspondente é composto por:
-
-- **1 NOT** para gerar \(a'\)
-- **2 portas AND**:
-  - Uma para o termo \(a'bc\)
-  - Outra para o termo \(ab\)
-- **1 porta OR** para combinar os dois termos e gerar a saída **F**
-
-A saída **F** será ativada sempre que qualquer um dos termos AND for verdadeiro.
