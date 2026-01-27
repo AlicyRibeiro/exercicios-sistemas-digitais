@@ -33,6 +33,7 @@ Ou seja, a função representa uma operação **OU** entre dois termos **AND**.
 
 ##  Circuito da Expressão
 
+![Circuito da Questão 2.30 - item a](figuras/Questão-2.30-item-a.png)
 
 
 ---
@@ -91,5 +92,6 @@ F = a + b + c
 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 1 | 1 |
+
 
 
