@@ -32,7 +32,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 *(Questões do livro: 2.30 – 2.34; 2.53-2.55; 3.15 – 3.16; 4.1 – 3.21 – 3.22; 4.3;)*
 
-* **Questão 2.30/2.33:** [Conversão de Equações Booleanas para Tabelas-Verdade]([link-para-solucao.md]) | [Simulação]
+* **Questão 2.30:** [Conversão de Equações Booleanas para Tabelas-Verdade]([01-revisao-circuitos-digitais/Q-2-30/Q-2-30-resolucao.md]) | [Simulação]
 * **Questão 2.31:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.32:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.34:** [Conversão de Equações (com 4 variáveis) para Tabelas-Verdade]([link-para-solucao.md])
