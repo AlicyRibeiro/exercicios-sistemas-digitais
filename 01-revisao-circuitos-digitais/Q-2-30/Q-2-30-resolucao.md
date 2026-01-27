@@ -65,6 +65,14 @@ Observe que o valor de **c não influencia** o resultado da função.
 
 ---
 
+
+##  Circuito da Expressão
+
+![Circuito da Questão 2.30 - item a](figuras/Questão-2.30-item-b.png)
+
+
+---
+
 ## c) Função Booleana
 
 \[
@@ -93,5 +101,13 @@ F = a + b + c
 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 1 | 1 |
 
+---
+
+##  Circuito da Expressão
+
+![Circuito da Questão 2.30 - item a](figuras/Questão-2.30-item-c.png)
+
+
+---
 
 
