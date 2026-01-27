@@ -70,10 +70,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 ## Aviso Legal
 
-Este repositório contém resoluções originais de exercícios baseados no livro
+Este repositório contém resoluções  de exercícios baseados no livro
 *Sistemas Digitais* (Frank Vahid).
-
-Os enunciados completos das questões e quaisquer imagens do livro **não são reproduzidos**
-neste repositório, em conformidade com a Lei de Direitos Autorais.
 
 Este material tem finalidade exclusivamente acadêmica e educacional.
