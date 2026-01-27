@@ -110,4 +110,38 @@ F = a + b + c
 
 ---
 
+## d) Função Booleana
+
+\[
+F(a, b, c) = c'
+\]
+
+A saída **F** é simplesmente a **negação (inversão)** da entrada **c**.  
+Os valores de **a** e **b** **não influenciam** o resultado da função.
+
+---
+
+###  Tabela Verdade
+
+| a | b | c | F |
+|---|---|---|---|
+| 0 | 0 | 0 | 1 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 0 |
+
+---
+
+### 🔌 Circuito da Expressão
+
+##  Circuito da Expressão
+
+![Circuito da Questão 2.30 - item a](figuras/Questão-2.30-item-d.png)
+
+
+---
 
