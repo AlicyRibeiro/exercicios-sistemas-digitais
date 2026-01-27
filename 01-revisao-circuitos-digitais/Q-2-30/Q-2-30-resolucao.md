@@ -31,6 +31,13 @@ Ou seja, a função representa uma operação **OU** entre dois termos **AND**.
 
 ---
 
+##  Circuito da Expressão
+
+
+
+---
+
+
 ## b) Função Booleana
 
 \[
@@ -84,4 +91,5 @@ F = a + b + c
 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 1 | 1 |
+
 
