@@ -2,6 +2,8 @@
 
 Crie uma representação com equação booleana para o circuito digital da Fig. 2.64.
 
+![Circuito da Questão 2.30 - item a](figuras/Fig.-2.64.jpeg)
+
 A melhor maneira de analisar um circuito digital é seguir o fluxo do sinal, da esquerda (entradas) para a direita (saída), identificando a função de cada porta lógica.
 
 A primeira porta do circuito é uma porta **E (AND)**.
@@ -62,3 +64,4 @@ Concluindo, a equação booleana para o circuito é:
 \[
 F = (ab' + b)'
 \]
+
