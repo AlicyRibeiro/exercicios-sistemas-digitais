@@ -28,10 +28,11 @@ Recebe a saída da porta E de baixo (**a'c**).
 
 Ela soma tudo, resultando na equação final para **G**:
 
-\[
+
 G = (ab' + b) + a'c
-\]
+
 
 Apesar de parecer complexo, tem a mesma função lógica que uma simples porta **OU** de três entradas recebendo **a**, **b** e **c**.  
 Ele produzirá uma saída **1** se qualquer uma de suas entradas for **1**.
+
 
