@@ -42,6 +42,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
   
 * **Questão 2.33:** [Conversão de Circuitos para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-33)
 
+* **Questão 2.34:** [Conversão de Equações Booleanas para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-34)
 
 * **Questão 2.53:** [Projeto: Alarme do Museu]([link-para-solucao.md]) | [Simulação]
 * **Questão 2.54:** [Projeto: Detector de Ronda do Guarda]([link-para-solucao.md])
