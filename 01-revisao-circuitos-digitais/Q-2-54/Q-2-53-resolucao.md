@@ -65,3 +65,5 @@ Portanto, a expressão já está em sua forma mais simples (na forma de soma de 
 ---
 
 ### Circuito Lógico
+
+![Circuito da Questão 2.30 - item a](figuras/Questão2.54.png)
