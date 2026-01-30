@@ -44,7 +44,10 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 * **Questão 2.34:** [Conversão de Equações Booleanas para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-34)
 
-* **Questão 2.53:** [Projeto: Alarme do Museu]([link-para-solucao.md]) | [Simulação]
+* **Questão 2.53:**
+[Projeto: Alarme do Museu](01-revisao-circuitos-digitais/Q-2-53/Q-2-53-resolucao.md) |
+[Simulação](01-revisao-circuitos-digitais/Q-2-53/simulações)
+
 * **Questão 2.54:** [Projeto: Detector de Ronda do Guarda]([link-para-solucao.md])
 * **Questão 2.55:** [Projeto: Alarme de 10 Salões]([link-para-solucao.md])
 * **Questão 3.15 & 3.16:** [Análise: Latch D vs. Flip-Flop D]([link-para-solucao.md]) | [Simulação]
