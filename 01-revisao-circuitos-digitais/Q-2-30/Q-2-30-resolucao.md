@@ -2,9 +2,9 @@
 
 Converta a seguinte equação booleana para um **circuito digital**:
 
-\[
+
 F(a, b, c) = a'bc + ab
-\]
+
 
 Essa equação indica que a saída **F = 1 (verdadeira)** quando **pelo menos uma** das condições abaixo é satisfeita:
 
@@ -41,9 +41,9 @@ Ou seja, a função representa uma operação **OU** entre dois termos **AND**.
 
 ## b) Função Booleana
 
-\[
+
 F(a, b, c) = a'b
-\]
+
 
 A saída **F = 1** apenas quando **a for falso** (\(a'\)) **e b for verdadeiro**.  
 Observe que o valor de **c não influencia** o resultado da função.
@@ -75,16 +75,16 @@ Observe que o valor de **c não influencia** o resultado da função.
 
 ## c) Função Booleana
 
-\[
+
 F(a, b, c) = abc + ab + a + b + c
-\]
+
 
 A saída **F = 1** se **qualquer um** dos termos \(abc\), \(ab\), \(a\), \(b\) ou \(c\) for igual a 1.  
 Essa função pode ser **simplificada** utilizando as leis da Álgebra Booleana:
 
-\[
+
 F = a + b + c
-\]
+
 
 ---
 
@@ -112,9 +112,9 @@ F = a + b + c
 
 ## d) Função Booleana
 
-\[
+
 F(a, b, c) = c'
-\]
+
 
 A saída **F** é simplesmente a **negação (inversão)** da entrada **c**.  
 Os valores de **a** e **b** **não influenciam** o resultado da função.
@@ -136,7 +136,7 @@ Os valores de **a** e **b** **não influenciam** o resultado da função.
 
 ---
 
-### 🔌 Circuito da Expressão
+###  Circuito da Expressão
 
 ##  Circuito da Expressão
 
@@ -144,4 +144,5 @@ Os valores de **a** e **b** **não influenciam** o resultado da função.
 
 
 ---
+
 
