@@ -1,7 +1,7 @@
 # Questão 2.32
 
 Crie uma representação com equação booleana para o circuito digital da Fig. 2.65.
-![Circuito da Questão 2.32](figuras/Fig.2.65.jpeg)
+![Circuito da Questão 2.32](figuras/Fig.-2.65.jpeg)
 
 ---
 
@@ -34,3 +34,4 @@ G = (ab' + b) + a'c
 
 Apesar de parecer complexo, tem a mesma função lógica que uma simples porta **OU** de três entradas recebendo **a**, **b** e **c**.  
 Ele produzirá uma saída **1** se qualquer uma de suas entradas for **1**.
+
