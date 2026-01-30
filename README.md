@@ -26,7 +26,6 @@ Para validar e visualizar o comportamento dos circuitos, algumas das questões f
 
 Abaixo está a lista de exercícios desta lista que foram resolvidos, organizados pelos tópicos definidos no documento da disciplina.
 
-*(Substitua `[link-para-solucao.md]` pelo nome do seu arquivo, por ex: `Q-2.33.md`)*
 
 ### 1. Revisão de circuitos digitais 
 
@@ -36,7 +35,9 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
   [Conversão de Equações Booleanas para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-30/Q-2-30-resolucao.md) |   
   [Simulação](01-revisao-circuitos-digitais/Q-2-30/simulações)
 
-* **Questão 2.31:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
+* **Questão 2.31:** [Análise de Circuito para Equação Booleana](01-revisao-circuitos-digitais/Q-2-31/resolucao.md)
+
+
 * **Questão 2.32:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.34:** [Conversão de Equações (com 4 variáveis) para Tabelas-Verdade]([link-para-solucao.md])
 * **Questão 2.53:** [Projeto: Alarme do Museu]([link-para-solucao.md]) | [Simulação]
