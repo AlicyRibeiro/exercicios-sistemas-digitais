@@ -36,7 +36,6 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
   [Conversão de Equações Booleanas para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-30/Q-2-30-resolucao.md) |   
   [Simulação](01-revisao-circuitos-digitais/Q-2-30/simulações)
 
-* **Questão 2.30:** [Conversão de Equações Booleanas para Tabelas-Verdade]([Q-2-30-resolucao.md]) | [Simulação]
 * **Questão 2.31:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.32:** [Análise de Circuito para Equação Booleana]([link-para-solucao.md])
 * **Questão 2.34:** [Conversão de Equações (com 4 variáveis) para Tabelas-Verdade]([link-para-solucao.md])
