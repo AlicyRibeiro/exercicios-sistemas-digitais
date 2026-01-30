@@ -48,7 +48,11 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 [Projeto: Alarme do Museu](01-revisao-circuitos-digitais/Q-2-53/Q-2-53-resolucao.md) |
 [Simulação](01-revisao-circuitos-digitais/Q-2-53/simulações)
 
-* **Questão 2.54:** [Projeto: Detector de Ronda do Guarda]([link-para-solucao.md])
+* **Questão 2.54:**
+[Projeto: Detector de Ronda do Guarda](01-revisao-circuitos-digitais/Q-2-54/Q-2-53-resolucao.md) |
+[Simulação](01-revisao-circuitos-digitais/Q-2-54/simulações)
+
+
 * **Questão 2.55:** [Projeto: Alarme de 10 Salões]([link-para-solucao.md])
 * **Questão 3.15 & 3.16:** [Análise: Latch D vs. Flip-Flop D]([link-para-solucao.md]) | [Simulação]
 * **Questão 3.21 & 3.22:** [Análise: Registradores em Cascata (Pipeline)]([link-para-solucao.md])
