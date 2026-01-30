@@ -40,7 +40,9 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 * **Questão 2.32:** [Análise de Circuito para Equação Booleana](01-revisao-circuitos-digitais/Q-2-32/resolucao.md)
   
-* **Questão 2.34:** [Conversão de Equações (com 4 variáveis) para Tabelas-Verdade]([link-para-solucao.md])
+* **Questão 2.33:** [Conversão de Circuitos para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-33)
+
+
 * **Questão 2.53:** [Projeto: Alarme do Museu]([link-para-solucao.md]) | [Simulação]
 * **Questão 2.54:** [Projeto: Detector de Ronda do Guarda]([link-para-solucao.md])
 * **Questão 2.55:** [Projeto: Alarme de 10 Salões]([link-para-solucao.md])
