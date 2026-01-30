@@ -1,64 +1,74 @@
-# Questão 2.31
+# Questão 2.33
 
-Crie uma representação com equação booleana para o circuito digital da Fig. 2.64.
-
-A melhor maneira de analisar um circuito digital é seguir o fluxo do sinal, da esquerda (entradas) para a direita (saída), identificando a função de cada porta lógica.
-
-A primeira porta do circuito é uma porta **E (AND)**.
+Converta cada uma das equações booleanas do exercício 2.30 em uma tabela-verdade.
 
 ---
 
-## Análise do Circuito
-
-### Primeira Porta Lógica – AND
-
-**Entradas:**  
-Ela recebe o sinal **a** e o sinal **b** invertido (por causa do círculo), que representamos como **b'**.
-
-**Função:**  
-A porta realiza a operação **a E b'**.
-
-**Equação da Saída (intermediária):**  
-A saída desta porta é **ab'**.
-
----
-
-### Segunda Porta Lógica – OR
-
-A saída da porta anterior (**ab'**) se torna uma das entradas para a porta **OU (OR)**.
-
-**Entradas:**  
-As entradas desta porta são **ab'** e o sinal original **b**.
-
-**Função:**  
-A porta realiza a operação **(ab') OU (b)**.  
-A operação OU é representada pelo sinal de mais **+**.
-
-**Equação da Saída (intermediária):**  
-A saída desta porta é **(ab') + b**.
-
----
-
-### Terceira Porta Lógica – NOT (Inversor)
-
-A saída da porta OU (**ab' + b**) entra na última porta, que é um **inversor (NÃO / NOT)**.
-
-**Entrada:**  
-A entrada do inversor é **(ab') + b**.
-
-**Função:**  
-O inversor nega toda a sua entrada.  
-A negação é representada por uma apóstrofe **'** no final da expressão.
-
----
-
-## Equação da Saída Final
-
-**Equação da Saída Final (F):**  
-A saída final **F** é a negação de tudo o que veio antes.
-
-Concluindo, a equação booleana para o circuito é:
+## a) Função Booleana
 
 \[
-F = (ab' + b)'
+F(a, b, c) = a'bc + ab
 \]
+
+---
+
+##  Tabela Verdade
+
+| a | a' | b | c | a’bc | ab | F |
+|---|----|---|---|------|----|---|
+| 0 | 1  | 0 | 0 | 0 | 0 | 0 |
+| 0 | 1  | 0 | 1 | 0 | 0 | 0 |
+| 0 | 1  | 1 | 0 | 0 | 0 | 0 |
+| 0 | 1  | 1 | 1 | 1 | 0 | 1 |
+| 1 | 0  | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0  | 0 | 1 | 0 | 0 | 0 |
+| 1 | 0  | 1 | 0 | 0 | 1 | 1 |
+| 1 | 0  | 1 | 1 | 0 | 1 | 1 |
+
+---
+
+- **a’bc = 1** se **a = 0**, **b = 1** e **c = 1**.  
+- **ab = 1** se **a = 1** e **b = 1**.
+
+A saída **F = 1** se qualquer um dos termos for **1**.
+
+###  Explicação 
+
+A função está na forma de **Soma de Produtos**, ou seja, cada termo representa uma condição específica para ativar a saída.  
+Sempre que **qualquer uma das condições** for satisfeita, a porta **OU** final garante que a saída **F** seja igual a 1.  
+Caso nenhuma das combinações gere valor 1 nos termos intermediários, a saída permanece em 0.
+
+---
+
+## b) Função Booleana
+
+\[
+F(a, b, c) = a'b
+\]
+
+---
+
+##  Tabela Verdade
+
+| a | a' | b | c | F |
+|---|----|---|---|---|
+| 0 | 1  | 0 | 0 | 0 |
+| 0 | 1  | 0 | 1 | 0 |
+| 0 | 1  | 1 | 0 | 1 |
+| 0 | 1  | 1 | 1 | 1 |
+| 1 | 0  | 0 | 0 | 0 |
+| 1 | 0  | 0 | 1 | 0 |
+| 1 | 0  | 1 | 0 | 0 |
+| 1 | 0  | 1 | 1 | 0 |
+
+---
+
+só importa **a** e **b**.  
+
+A saída **F = 1** apenas quando **a’ = 1** (ou seja, **a = 0**) e **b = 1**.
+
+###  Explicação
+
+Embora a função possua três variáveis, o valor de **c não influencia** o resultado final.  
+Isso ocorre porque **c não aparece na equação booleana**, logo qualquer variação nessa entrada não altera a saída.  
+Na prática, o circuito pode ser implementado apenas com **uma porta NOT** (para gerar \(a'\)) e **uma porta AND**.
