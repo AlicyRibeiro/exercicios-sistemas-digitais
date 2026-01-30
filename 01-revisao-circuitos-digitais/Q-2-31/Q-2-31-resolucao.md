@@ -61,7 +61,8 @@ A saída final **F** é a negação de tudo o que veio antes.
 
 Concluindo, a equação booleana para o circuito é:
 
-\[
+
 F = (ab' + b)'
-\]
+
+
 
