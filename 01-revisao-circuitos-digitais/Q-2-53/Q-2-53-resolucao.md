@@ -91,3 +91,6 @@ Isso cobre perfeitamente a condição de **"movimento em pelo menos dois salões
 ---
 
 ### Circuito Lógico
+
+![Circuito da Questão 2.30 - item a](figuras/Questão2.53.png)
+
