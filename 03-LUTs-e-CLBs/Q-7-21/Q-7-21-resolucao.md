@@ -85,4 +85,5 @@ Armazenamos os valores de **F** na saída **OUT0**.
 ---
 ## LUT
 
-![Circuito da Questão 2.30 - item a](figuras/Questão7.21.jpeg)
+![Circuito da Questão 2.30 - item a](figuras/LUT7.21.jpeg)
+
