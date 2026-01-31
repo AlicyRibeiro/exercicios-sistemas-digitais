@@ -81,4 +81,6 @@ A função completa para esta condição (**F_um**) é a soma (OU) de todas as 1
 
 ---
 
-### Implementação do Circuito
+### Circuito Lógico
+
+![Circuito da Questão 2.30 - item a](figuras/Questão2.55.png)
