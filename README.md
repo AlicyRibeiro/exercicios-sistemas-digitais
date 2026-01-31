@@ -81,8 +81,10 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 * **Questão 7.25:** [Projeto de Comparador de 2 Bits com LUTs]([link-para-solucao.md])
 
 ---
-As questões do Bloco de Controle e Datapath estão organizadas separadamente no repositório:
-controle-e-datapath-sistemas-digitais
+
+🔹 As questões do **Bloco de Controle e Datapath** foram organizadas separadamente
+no repositório:
+[controle-e-datapath-sistemas-digitais](https://github.com/AlicyRibeiro/controle-e-datapath-sistemas-digitais)
 
 ---
 
