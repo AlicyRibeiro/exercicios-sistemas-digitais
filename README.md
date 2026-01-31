@@ -29,9 +29,9 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 ### 1. Revisão de circuitos digitais 
 
-*(Questões do livro: 2.30 – 2.34; 2.53-2.55; 3.15 – 3.16; 4.1 – 3.21 – 3.22; 4.3;)*
+*(Questões do livro: 2.30–2.34; 2.53–2.55; 3.15–3.16; 3.21–3.22; 4.1; 4.3)*
 
-- **Questão 2.30:**  
+* **Questão 2.30:**  
   [Conversão de Equações Booleanas para Tabelas-Verdade](01-revisao-circuitos-digitais/Q-2-30/Q-2-30-resolucao.md) |   
   [Simulação](01-revisao-circuitos-digitais/Q-2-30/simulações)
 
@@ -49,7 +49,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 [Simulação](01-revisao-circuitos-digitais/Q-2-53/simulações)
 
 * **Questão 2.54:**
-[Projeto: Detector de Ronda do Guarda](01-revisao-circuitos-digitais/Q-2-54/Q-2-53-resolucao.md) |
+[Projeto: Detector de Ronda do Guarda](01-revisao-circuitos-digitais/Q-2-54/Q-2-54-resolucao.md) |
 [Simulação](01-revisao-circuitos-digitais/Q-2-54/simulações)
 
 
