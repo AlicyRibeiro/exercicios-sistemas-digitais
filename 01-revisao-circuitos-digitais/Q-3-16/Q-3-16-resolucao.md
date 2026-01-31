@@ -2,6 +2,7 @@
 
 Compare os comportamentos de um latch D e um flip-flop D completando o diagrama de tempo Fig. 3.79. Assuma que cada dispositivo armazena inicialmente um 0. Dê uma breve explicação do comportamento de cada dispositivo.
 
+![Circuito da Questão 2.30 - item a](figuras/Questão3.16.jpeg)
 
 ---
 
@@ -23,6 +24,7 @@ As regras que governam os dispositivos são as mesmas da questão anterior e sã
 ---
 
 ## Diagrama Completo
+![Circuito da Questão 2.30 - item a](figuras/Diagrama3.16.jpeg)
 
 ---
 
@@ -80,3 +82,4 @@ Enquanto a entrada **C (clock)** for 1, o **latch D** irá armazenar o valor de 
 O **flip-flop D** só irá armazenar o valor de **D** na borda de subida de **C** (após um pequeno atraso de porta).
 
 O segundo pulso de clock é o melhor exemplo: o latch é suscetível a "ruídos" ou mudanças rápidas em **D** enquanto está habilitado, enquanto o flip-flop ignora essas mudanças, provendo uma saída muito mais estável e sincronizada, que só muda uma vez por ciclo de clock.
+
