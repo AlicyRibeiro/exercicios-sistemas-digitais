@@ -27,7 +27,7 @@ Antes de seguir a linha do tempo, precisa-se lembrar as duas regras de ouro:
 
 ## Diagrama Completo
 
-![Circuito da Questão 2.30 - item a](figuras/Diagrama.jpeg)
+![Circuito da Questão 2.30 - item a](figuras/Diagrama3.16.jpeg)
 
 ---
 
@@ -94,4 +94,5 @@ O **flip-flop D** só irá armazenar o valor de **D** na borda de subida de **C*
 
 Enquanto a entrada **C (clock)** for 1, o **latch D** irá armazenar o valor de **D** (após um pequeno atraso de porta).  
 O **flip-flop D** só irá armazenar o valor de **D** na borda de subida de **C** (após um pequeno atraso de porta).
+
 
