@@ -1,4 +1,4 @@
-# Conteúdo da Lista: Revisão e Fundamentos
+# Conteúdo: Revisão e Fundamentos
 
 O foco desta revisão abrange desde a representação básica de funções booleanas até o projeto de componentes complexos, como **registradores multifuncionais**, baseando-se na obra de **Frank Vahid**.
 
@@ -98,6 +98,7 @@ Algumas resoluções incluem arquivos de simulação que podem ser validados e e
 Os arquivos `.dig` ou `.circ` encontram-se organizados na subpasta:
 
 `/simulações`
+
 
 
 
