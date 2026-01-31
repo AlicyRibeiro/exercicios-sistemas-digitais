@@ -74,7 +74,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
   *(Questões do Livro: 7.20 - 7.25)*
 
-* **Questão 7.20:** [Implementação de Função Simples com LUT]([link-para-solucao.md])
+* **Questão 7.20:** [Implementação de Função Simples com LUT](03-LUTs-e-CLBs/Q-7-20/Q-7-20-resolucao.md)
 * **Questão 7.21:** [Implementação de Função de 4 Variáveis com Duas LUTs]([link-para-solucao.md])
 * **Questão 7.22:** [Implementação de Função Decomposta em Duas LUTs]([link-para-solucao.md])
 * **Questão 7.23:** [Implementação de Múltiplas Funções com Duas LUTs]([link-para-solucao.md])
