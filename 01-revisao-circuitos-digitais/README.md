@@ -2,9 +2,12 @@
 
 O foco desta revisão abrange desde a representação básica de funções booleanas até o projeto de componentes complexos, como **registradores multifuncionais**, baseando-se na obra de **Frank Vahid**.
 
+
+**Este diretório contém a primeira parte da lista de exercícios de Circuitos Digitais, com foco em revisão conceitual, análise lógica e projeto de componentes fundamentais.**
+
 ---
 
-## 1. Representação de Funções Booleanas (Seção 2.6)
+## 1. Representação de Funções Booleanas 
 
 **Questões:** 2.30 a 2.34  
 
@@ -13,15 +16,15 @@ Análise detalhada de equações booleanas, construção de **tabelas-verdade** 
 **Destaque:**  
 Conversão de funções complexas, como:
 
-\[
+
 F(a, b, c) = a'bc + ab
-\]
+
 
 para implementações físicas utilizando **portas lógicas**.
 
 ---
 
-## 2. Projeto Lógico Combinacional (Seção 2.7)
+## 2. Projeto Lógico Combinacional 
 
 **Questões:** 2.53 a 2.55  
 
@@ -39,7 +42,7 @@ Desenvolvimento de soluções para problemas do mundo real, exemplificado pelo *
 
 ---
 
-## 3. Elementos de Memória e Sincronismo (Seção 3.2)
+## 3. Elementos de Memória e Sincronismo 
 
 **Questões:** 3.15 a 3.16  
 
@@ -52,7 +55,7 @@ Análise comparativa de comportamento temporal entre dispositivos de armazenamen
 
 ---
 
-## 4. Registradores e Pipeline (Seção 4.2)
+## 4. Registradores e Pipeline 
 
 **Questões:** 4.1, 3.21, 3.22 e 4.3  
 
@@ -92,5 +95,9 @@ Abaixo, as principais funções booleanas trabalhadas e suas respectivas simplif
 
 Algumas resoluções incluem arquivos de simulação que podem ser validados e executados nos softwares **Digital** ou **Logisim**.
 
- Os arquivos `.dig` ou `.circ` encontram-se organizados na subpasta: /simulações
+Os arquivos `.dig` ou `.circ` encontram-se organizados na subpasta:
+
+`/simulações`
+
+
 
