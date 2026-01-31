@@ -80,6 +80,11 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 * **Questão 7.23:** [Implementação de Múltiplas Funções com Duas LUTs]([link-para-solucao.md])
 * **Questão 7.25:** [Projeto de Comparador de 2 Bits com LUTs]([link-para-solucao.md])
 
+---
+As questões do Bloco de Controle e Datapath estão organizadas separadamente no repositório:
+controle-e-datapath-sistemas-digitais
+
+---
 
 ## Aviso Legal
 
