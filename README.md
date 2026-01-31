@@ -79,7 +79,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 * **Questão 7.22:** [Implementação de Função Decomposta em Duas LUTs](03-LUTs-e-CLBs/Q-7-22/Q-7-22-resolucao.md) |
                     [Simulação](03-LUTs-e-CLBs/Q-7-22/simulações)
 
-* **Questão 7.23:** [Implementação de Múltiplas Funções com Duas LUTs](03-LUTs-e-CLBs/Q-7-23/Q-7-23-resolucao.md)
+* **Questão 7.23:** [Implementação de Múltiplas Funções com Duas LUTs](03-LUTs-e-CLBs/Q-7-23/Q-7-23-resolucao.md) |
                     [Simulação](03-LUTs-e-CLBs/Q-7-23/simulações)
 
 * **Questão 7.25:** [Projeto de Comparador de 2 Bits com LUTs]([link-para-solucao.md])
