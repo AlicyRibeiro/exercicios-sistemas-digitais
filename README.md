@@ -69,18 +69,6 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
   
 * **Questão 4.3:** [Projeto: Registrador Multifuncional](01-revisao-circuitos-digitais/Q-4-3/Q-4-3-resolucao.md) 
 
-### 2. Bloco de controle e Datapath
-
-  *(Questões do Livro:3.1–3.3; 3.27 – 3.30; 3.39;3.44 – 3.45; 5.1 – 5.3; 5.6 – 5.11; 5.15; 5.18,5.19; 5.22 – 5.23; 
-6.32; 6.33; 6.39;)*
-
-* **Questão 3.1 & 3.2:** [Cálculo: Frequência para Período]([link-para-solucao.md])
-* **Questão 3.3:** [Cálculo: Período para Frequência]([link-para-solucao.md])
-* **Questão 3.27:** [Projeto de FSM: Relógio de Pulso (Avanço de Item)]([link-para-solucao.md])
-* **Questão 3.28:** [Projeto de FSM: Adicionando Reset (R) ao Relógio]([link-para-solucao.md])
-* **Questão 3.29:** [Projeto de FSM: Gerador de Código Gray]([link-para-solucao.md])
-* **Questão 3.30:** [Análise: Diagrama de Tempo da FSM de Código Gray]([link-para-solucao.md])
-* **Questão 3.39:** [Projeto de Bloco de Controle (FSM para Circuito)]([link-para-solucao.md])
 
 ### 3. LUTs e CLBS
 
