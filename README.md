@@ -62,7 +62,11 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 * **Questão 3.16:** [Análise: Latch D vs. Flip-Flop D](01-revisao-circuitos-digitais/Q-3-16/Q-3-16-resolucao.md)
 
 * **Questão 3.21:** [Análise: Registradores em Cascata (Pipeline)](01-revisao-circuitos-digitais/Q-3-21/Q-3-21-resolucao.md)
+
+* **Questão 3.22:** [Análise: Registradores em Cascata (Pipeline)](01-revisao-circuitos-digitais/Q-3-22/Q-3-22-resolucao.md)
+
 * **Questão 4.1:** [Análise: Registrador com Carga Paralela (ld)]([link-para-solucao.md])
+  
 * **Questão 4.3:** [Projeto: Registrador Multifuncional]([link-para-solucao.md]) | [Simulação]
 
 ### 2. Bloco de controle e Datapath
