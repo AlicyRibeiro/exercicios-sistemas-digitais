@@ -53,9 +53,9 @@ Como a LUT tem duas saídas (vamos chamá-las de **OUT1** e **OUT0**), e a funç
 
 ---
 
-### LUT
+## LUT
 
-![Circuito da Questão 2.30 - item a](figuras/Questão7.20.jpeg)
+![Circuito da Questão 2.30 - item a](figuras/LUT7.20.jpeg)
 
 O circuito final é simplesmente a LUT com suas entradas e saídas conectadas.
 
@@ -73,4 +73,5 @@ O conteúdo da coluna **d0** da LUT na imagem é idêntico ao resultado da tabel
 **2 saídas de dados (d1, d0):**  
 O conteúdo da posição de memória selecionada aparece nessas saídas.  
 A saída final **F** está conectada a **d0**.
+
 
