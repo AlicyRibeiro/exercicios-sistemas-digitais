@@ -65,7 +65,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 * **Questão 3.22:** [Análise: Registradores em Cascata (Pipeline)](01-revisao-circuitos-digitais/Q-3-22/Q-3-22-resolucao.md)
 
-* **Questão 4.1:** [Análise: Registrador com Carga Paralela (ld)]([link-para-solucao.md])
+* **Questão 4.1:** [Análise: Registrador com Carga Paralela (ld)](01-revisao-circuitos-digitais/Q-4-1/Q-4-1-resolucao.md)
   
 * **Questão 4.3:** [Projeto: Registrador Multifuncional]([link-para-solucao.md]) | [Simulação]
 
