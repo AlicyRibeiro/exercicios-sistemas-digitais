@@ -57,7 +57,10 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 [Simulação](01-revisao-circuitos-digitais/Q-2-55/simulações)
 
 
-* **Questão 3.15 & 3.16:** [Análise: Latch D vs. Flip-Flop D]([link-para-solucao.md]) | [Simulação]
+* **Questão 3.15:** [Análise: Latch D vs. Flip-Flop D](01-revisao-circuitos-digitais/Q-3-15/Q-3-15-resolucao.md) 
+
+* **Questão 3.15  3.16:** [Análise: Latch D vs. Flip-Flop D]([link-para-solucao.md]) | [Simulação]
+
 * **Questão 3.21 & 3.22:** [Análise: Registradores em Cascata (Pipeline)]([link-para-solucao.md])
 * **Questão 4.1:** [Análise: Registrador com Carga Paralela (ld)]([link-para-solucao.md])
 * **Questão 4.3:** [Projeto: Registrador Multifuncional]([link-para-solucao.md]) | [Simulação]
