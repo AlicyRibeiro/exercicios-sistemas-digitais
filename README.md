@@ -67,7 +67,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
 
 * **Questão 4.1:** [Análise: Registrador com Carga Paralela (ld)](01-revisao-circuitos-digitais/Q-4-1/Q-4-1-resolucao.md)
   
-* **Questão 4.3:** [Projeto: Registrador Multifuncional]([link-para-solucao.md]) | [Simulação]
+* **Questão 4.3:** [Projeto: Registrador Multifuncional](01-revisao-circuitos-digitais/Q-4-3/Q-4-3-resolucao.md) 
 
 ### 2. Bloco de controle e Datapath
 
