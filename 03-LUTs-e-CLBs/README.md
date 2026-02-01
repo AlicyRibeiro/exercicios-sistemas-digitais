@@ -80,3 +80,4 @@ Algumas resoluções incluem arquivos de simulação que podem ser validados e e
 
 Os arquivos `.dig` ou `.circ` encontram-se organizados na subpasta:
 
+`/simulações`
