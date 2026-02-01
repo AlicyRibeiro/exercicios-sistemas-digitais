@@ -22,6 +22,35 @@ Para validar e visualizar o comportamento dos circuitos, algumas das questões f
 
 ---
 
+## Como Executar as Simulações
+
+As simulações deste repositório foram desenvolvidas utilizando o simulador lógico **Digital**.
+
+### Instalação do Digital
+
+O Digital é um simulador open-source e multiplataforma.
+
+1. Acesse o repositório oficial:  
+   https://github.com/hneemann/Digital
+
+2. Baixe a versão correspondente ao seu sistema operacional:
+   - Linux
+   - Windows
+   - macOS
+
+3. Execute o arquivo `.jar` conforme as instruções da página oficial.
+
+### Abrindo as Simulações
+
+Após instalar o Digital:
+
+1. Abra o software
+2. Selecione **File → Open**
+3. Navegue até a pasta `/simulacoes`
+4. Abra o arquivo `.dig` correspondente à questão desejada
+
+---
+
 ## Questões Resolvidas
 
 Abaixo está a lista de exercícios desta lista que foram resolvidos, organizados pelos tópicos definidos no documento da disciplina.
