@@ -87,7 +87,7 @@ Abaixo está a lista de exercícios desta lista que foram resolvidos, organizado
                     [Simulação](03-LUTs-e-CLBs/Q-7-24/simulações)
   
 
-* **Questão 7.25:** [Projeto de Comparador de 2 Bits com LUTs]([link-para-solucao.md])
+* **Questão 7.25:** [Projeto de Comparador de 2 Bits com LUTs](03-LUTs-e-CLBs/Q-7-25/Q-7-25-resolucao.md)
 
 ---
 
