@@ -136,13 +136,12 @@ Os valores de **a** e **b** **não influenciam** o resultado da função.
 
 ---
 
-###  Circuito da Expressão
-
 ##  Circuito da Expressão
 
 ![Circuito da Questão 2.30 - item a](figuras/Questão-2.30-item-d.png)
 
 
 ---
+
 
 
